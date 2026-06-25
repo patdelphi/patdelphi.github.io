@@ -6,6 +6,9 @@ url: https://patdelphi.github.io/
 
 plugins:
   - jekyll-remote-theme
-  
+
+# 显式声明允许 Jekyll 渲染和索引根目录下的所有 HTML 和 MD 文件
+include: ["*.md", "*.html"]
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template

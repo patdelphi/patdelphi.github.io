@@ -1,4 +1,11 @@
-# 奇门遁甲预测体系深度分析
+---
+layout: default
+title: 奇门遁甲预测体系深度分析
+parent: 💡 杂七杂八
+nav_order: 2
+---
+
+# 
 
 ## 前言
 

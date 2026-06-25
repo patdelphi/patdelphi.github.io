@@ -1,17 +1,8 @@
 ---
 layout: default
-title: 如何玩 Cloudflare
+title: Cloudflare 全栈应用技术架构指南
 parent: AI 实战笔记      # 极其关键！名字必须和上面的顶级目录 title 完全一致
 nav_order: 1                # 在子目录里的排序
----
-
-# 如何玩 Cloudflare
----
-title: Cloudflare 全栈应用技术架构指南
-description: 详细介绍如何在 Cloudflare 平台上构建现代化全栈应用，包括架构设计、产品选型、最佳实践和成本分析
-author: MiMoCode
-date: 2026-06-23
-version: 1.0
 ---
 
 # Cloudflare 全栈应用技术架构指南

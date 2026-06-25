@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cloudflare 全栈应用技术架构指南
-parent: AI 实战笔记      # 极其关键！名字必须和上面的顶级目录 title 完全一致
+parent: 🤖 AI 实战笔记      # 极其关键！名字必须和上面的顶级目录 title 完全一致
 nav_order: 1                # 在子目录里的排序
 ---
 

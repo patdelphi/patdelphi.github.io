@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 🏠 关于
-nav_order: 2
+nav_order: 3
 ---
 
 # 欢迎来到 Patdelphi 的学习笔记站点

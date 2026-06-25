@@ -1,3 +1,10 @@
+---
+layout: default
+title: 小红书内容创作全流程设计
+parent: 🤖 AI 实战笔记
+nav_order: 3
+---
+
 # 小红书内容创作全流程设计
 
 > 基于 `planning-with-files` 模式，使用持久化文件管理工作记忆，实现从主题定义到发布复盘的完整闭环。
